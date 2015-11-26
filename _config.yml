@@ -7,4 +7,5 @@ markdown: rdiscount
 permalink: /projects/:title/
 highlighter: pygments
 image_url: /public/images
+exclude: [.git]
 destination: ../tomchung.github.io/
