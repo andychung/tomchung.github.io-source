@@ -5,7 +5,7 @@
 			<ul class="gallery cf">
 				{% for image in page.images %}
 				<li class="image {{ image.size }}">
-					{% figure_img %}
+					{% placeholder_img %}
 				</li>
 				{% endfor %}
 			</ul>
@@ -15,11 +15,6 @@
 				<div class="content-wrap">
 					{% include nav.html %}
 					<h2 class="project-title">{{ page.title }}, {{ page.year }}</h2>
-					<ul class="tags">
-						{% for tag in page.tags %}
-						<li>{{ tag }}</li>
-						{% endfor %}
-					</ul>
 					{{ content }}
 					{% include projects.html %}
 				</div>
