@@ -7,19 +7,9 @@ tags:
 images:
   - image: cast-pendants/tom-chung-cast-pendants-01.jpg
     size: full
-  - image: cast-pendants/tom-chung-cast-pendants-02.jpg
-    size: full
   - image: cast-pendants/tom-chung-cast-pendants-03.jpg
     size: full
-  - image: cast-pendants/tom-chung-cast-pendants-04.jpg
-    size: full
   - image: cast-pendants/tom-chung-cast-pendants-05.jpg
-    size: full
-  - image: cast-pendants/tom-chung-cast-pendants-06.jpg
-    size: full
-  - image: cast-pendants/tom-chung-cast-pendants-07.jpg
-    size: full
-  - image: cast-pendants/tom-chung-cast-pendants-08.jpg
     size: full
   - image: cast-pendants/tom-chung-cast-pendants-09.jpg
     size: full
