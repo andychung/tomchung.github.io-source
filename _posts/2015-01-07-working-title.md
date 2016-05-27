@@ -5,19 +5,13 @@ layout: post
 tags:
   - Interior design
 images:
-  - image: working-title/tom-chung-working-title-01.jpg
-    size: full
-  - image: working-title/tom-chung-working-title-02.jpg
-    size: full
   - image: working-title/tom-chung-working-title-03.jpg
     size: full
-  - image: working-title/tom-chung-working-title-05.jpg
-    size: half
-  - image: working-title/tom-chung-working-title-04.jpg
-    size: half
-  - image: working-title/tom-chung-working-title-06.jpg
+  - image: working-title/tom-chung-working-title-15.jpg
     size: full
-  - image: working-title/tom-chung-working-title-07.jpg
+  - image: working-title/tom-chung-working-title-01.jpg
+    size: full
+  - image: working-title/tom-chung-working-title-06.jpg
     size: full
   - image: working-title/tom-chung-working-title-08.jpg
     size: full
@@ -26,8 +20,6 @@ images:
   - image: working-title/tom-chung-working-title-10.jpg
     size: half
   - image: working-title/tom-chung-working-title-11.jpg
-    size: full
-  - image: working-title/tom-chung-working-title-14.jpg
     size: full
 ---
 
