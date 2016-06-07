@@ -7,7 +7,7 @@ tags:
 images:
   - image: spun-lights/tom-chung-sl-05.jpg
     size: full
-  - image: spun-lights/tom-chung-sl-01.jpg
+  - image: spun-lights/tom-chung-sl-02.jpg
     size: full
   - image: spun-lights/tom-chung-sl-03.jpg
     size: half
