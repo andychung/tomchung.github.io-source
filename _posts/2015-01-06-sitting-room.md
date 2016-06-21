@@ -22,8 +22,6 @@ images:
     size: full
   - image: sitting-room/tom-chung-sitting-room-08.jpg
     size: full
-  - image: sitting-room/tom-chung-sitting-room-09.jpg
-    size: full
 ---
 
 Sitting Room was an interdisciplinary exhibition of emerging Canadian Designers & Artists organized and curated for the 2015 Toronto Design Offsite festival.
