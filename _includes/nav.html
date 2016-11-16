@@ -1,5 +1,24 @@
 <nav>
-	<ul class="cf">
+	<!--
+	<ul class="core-nav">
+		{% if page.layout == 'post' %}
+		<li class="selected"><a href="/">Index</a></li>
+		{% elsif page.layout == 'default' %}
+		<li class="selected"><a class="disabled">Index</a></li>
+		{% elsif page.layout == 'catalog' %}
+		<li><a href="/">Index</a></li>
+		{% endif %}
+		
+		{% if page.layout == 'catalog' %}
+		<li class="selected"><a class="disabled">Catalog</a></li>
+		{% elsif page.layout != 'catalog' %}
+		<li><a href="/catalog">Catalog</a></li>
+		{% endif %}
+	</ul>
+	-->
+	
+	{% if page.layout == 'post' %}
+	<ul class="project-nav cf">
 		<li><a href="/">Index</a></li>
 		{% if page.next.url %} 
 		<li><a href="{{page.next.url}}">Previous</a></li> 
@@ -12,4 +31,5 @@
 		<li><strike>Next</strike></li>
 		{% endif %} 
 	</ul>
+	{% endif %} 
 </nav>
