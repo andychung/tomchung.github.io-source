@@ -15,4 +15,4 @@ images:
     size: half    
 ---
 
-Simple pendent lights originally designed for the Toronto retail space Working Title. The lights are spun in Ontario from 16 gauge steel in powder coated or plated metal finishes. 
+Simple pendant lights originally designed for the Toronto retail space Working Title. The lights are spun in Ontario from 16 gauge steel in powder coated or plated metal finishes. 
