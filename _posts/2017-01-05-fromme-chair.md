@@ -25,5 +25,5 @@ Fromme borrows from the materials and principals of early 90's mountain biking, 
 
 With a fully knockdown construction, easy to clean anodized finish and stacking clearance; Fromme has been designed for high performance in indoor and outdoor contract environments.
 
-Part of the <a href="https://vimeo.com/201069355">Expo Collection</a>, exhibted at the Stockholm Greenhouse 2017.
+Part of the <a href="https://vimeo.com/201069355">Expo Collection</a>, exhibited at the Stockholm Greenhouse 2017.
 
