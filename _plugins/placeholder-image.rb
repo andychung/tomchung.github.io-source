@@ -1,5 +1,3 @@
-# Make sure to run jekyll serve --skip-initial-build --watch
-
 require 'jekyll'
 require 'fastimage'
 
