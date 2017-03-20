@@ -5,6 +5,8 @@ layout: post
 tags:
   - Product design
 images:
+  - video: spun-sconce/tom-chung-sc-video-01.mp4
+    size: full
   - image: spun-sconce/tom-chung-sc-01.jpg
     size: full
   - image: spun-sconce/tom-chung-sc-04.jpg

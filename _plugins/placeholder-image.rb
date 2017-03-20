@@ -14,7 +14,7 @@ module Jekyll
       @base_url = Liquid::Template.parse("{{ site.#{@image_url} }}").render(context)
       @src = Liquid::Template.parse("{{ page.images[#{@index}].image }}").render(context)
       
-      @size = FastImage.size("http://localhost:4000/public/images/"+@src)
+      @size = FastImage.size("public/images/"+@src)
       @ratio = (@size[1]*1.0/@size[0])*100
 	  
 	  placeholder = "<div class='placeholder' style='padding-bottom:#{@ratio}%'>"

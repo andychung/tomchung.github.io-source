@@ -4,9 +4,20 @@
 		<div class="right-column">
 			<ul class="gallery cf">
 				{% for image in page.images %}
-				<li class="image {{ image.size }}">
-					{% placeholder_img %}
-				</li>
+					{% if image.image %}
+					<li class="image {{ image.size }}">
+						{% placeholder_img %}
+					</li>
+					{% endif %}
+					{% if image.video %}
+					<li class="image {{ image.size }}">
+						<div class="placeholder video">
+							<video autoplay loop muted playsinline oncanplay="showVideo()">
+								<source src="/public/images/{{ image.video }}">
+							</video>
+						</div>
+					</li>
+					{% endif %}
 				{% endfor %}
 			</ul>
 		</div>

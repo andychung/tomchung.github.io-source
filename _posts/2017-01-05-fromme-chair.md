@@ -5,6 +5,8 @@ layout: post
 tags:
   - Product design
 images:
+  - video: fromme/tom-chung-fromme-video-01.mp4
+    size: full
   - image: fromme/tom-chung-fromme-01.jpg
     size: full
   - image: fromme/tom-chung-fromme-02.jpg

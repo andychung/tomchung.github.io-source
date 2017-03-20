@@ -2,7 +2,6 @@ name: Tom Chung
 description: Tom Chung is an independent industrial designer focused on material objects and space. He is based in Toronto, Canada.
 baseurl: "/"
 url: "http://tomchung.net"
-highlighter: true
 markdown: kramdown
 permalink: /projects/:title/
 image_url: /public/images
