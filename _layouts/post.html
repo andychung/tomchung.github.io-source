@@ -12,7 +12,7 @@
 					{% if image.video %}
 					<li class="image {{ image.size }}">
 						<div class="placeholder video">
-							<video autoplay loop muted playsinline oncanplay="showVideo()">
+							<video autoplay loop muted playsinline oncanplay="showVideo(event)">
 								<source src="/public/images/{{ image.video }}">
 							</video>
 						</div>
