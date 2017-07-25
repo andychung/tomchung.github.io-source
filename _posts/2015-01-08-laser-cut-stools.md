@@ -1,5 +1,6 @@
 ---
 title: Laser Cut Stools
+client: Limited Edition
 year: 2015
 layout: post
 tags:

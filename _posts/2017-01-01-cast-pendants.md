@@ -1,6 +1,8 @@
 ---
 title: Cast Pendants
-year: 2014/2017
+client: Menu
+clientURL: http://menu.as/
+year: 2017
 layout: post
 tags:
   - Product design
@@ -21,4 +23,4 @@ Cast Pendants take inspiration from the traditional plumb weight &#8212; a weigh
 
 The use of LED technology allows for a surprisingly small scale, each light only measures 10-13cm tall. The collection suits both commercial and residential use. The lamp is available in three variations, and a splitter allows for variety of configurations.
 
-Designed with Jordan Murphy. Launched by <a href="http://menu.as">Menu</a> in 2017.
+Designed with Jordan Murphy.

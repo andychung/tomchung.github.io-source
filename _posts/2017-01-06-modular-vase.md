@@ -1,5 +1,6 @@
 ---
 title: Modular Vase
+client: Free to Edition
 year: 2017
 layout: post
 tags:
@@ -16,5 +17,3 @@ images:
 ---
 
 Modular and flat pack vase designed to display individual flowers in groupings. Loosely inspired by molecular structures, the vase has infinite configurations.
-
-
