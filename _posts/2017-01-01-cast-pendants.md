@@ -1,7 +1,7 @@
 ---
 title: Cast Pendants
 client: Menu
-clientURL: http://menu.as/
+clientURL: http://menu.as/cast-pendant/
 year: 2017
 layout: post
 tags:
