@@ -1,7 +1,7 @@
 ---
 title: Profile Servers
 client: Umbra Shift
-clientURL: http://umbrashift.com
+clientURL: http://www.umbrashift.com/usd/profile-servers-silver
 year: 2017
 layout: post
 tags:
@@ -10,6 +10,8 @@ images:
   - image: profile-servers/tom-chung-servers-01.jpg
     size: full
   - image: profile-servers/tom-chung-servers-02.jpg
+    size: full
+  - image: profile-servers/tom-chung-servers-03.jpg
     size: full
 ---
 
