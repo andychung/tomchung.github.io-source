@@ -1,7 +1,7 @@
 ---
 title: Cast Pendants
 client: Menu
-clientURL: http://menu.as/cast-pendant/
+clientURL: https://menu.as/en/lightning/cast-pendant/
 year: 2017
 layout: post
 tags:
