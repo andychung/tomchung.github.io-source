@@ -30,4 +30,4 @@ The exhibition investigated living spaces as an intersection of artistic discipl
 
 Works by Knauf and Brown, Mercury Bureau, Rodrigo Caula, Andy Chung, Anh Dao, Jordan Murphy, and Lambert Rainville.
 
-Photography by Working Title
+Photography by Working Title.
