@@ -17,4 +17,4 @@ images:
 
 A tool for salad, and other things. Made from extruded aluminum, the ridged profile nests neatly in a bowl, drawer or hook. Designed with durability and use in mind.
 
-Photography by Umbra Shift & Tom Chung
+Photography by Umbra Shift & Tom Chung.

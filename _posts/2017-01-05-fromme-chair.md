@@ -24,4 +24,4 @@ Fromme is a versatile cafe chair which borrows from the materials and principals
 
 With a fully knockdown construction, easy to clean anodized finish and stacking clearance; Fromme has been designed for high performance in indoor and outdoor contract environments.
 
-Photography by Tom Chung
+Photography by Tom Chung.

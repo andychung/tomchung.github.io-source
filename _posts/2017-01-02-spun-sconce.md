@@ -19,4 +19,4 @@ images:
 
 The lights spun and laser cut in Ontario from 16 gauge steel in powder coated or plated metal finishes. Merging traditional lantern forms with industrial metal production.
 
-Photography by Anh Dao & Tom Chung
+Photography by Anh Dao & Tom Chung.

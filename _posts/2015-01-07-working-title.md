@@ -29,4 +29,4 @@ Canadian Douglas Fir, polished stainless steel, tempered glass and maple plywood
 
 The ceiling and floor was torn up to expose the original terrazzo and wood beams. The layout responds to the ad hoc nature of the store and functional needs to be re-arranged for exhibitions and events. The fixtures and materials follow the idea of a "working" or studio space as the format for the store.
 
-Photography by James Lee
+Photography by James Lee.

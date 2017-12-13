@@ -25,4 +25,4 @@ The use of LED technology allows for a surprisingly small scale, each light only
 
 Designed with Jordan Murphy
 
-Photography by Menu
+Photography by Menu.
