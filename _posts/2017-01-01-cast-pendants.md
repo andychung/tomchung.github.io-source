@@ -23,4 +23,6 @@ Cast Pendants take inspiration from the traditional plumb weight &#8212; a weigh
 
 The use of LED technology allows for a surprisingly small scale, each light only measures 10-13cm tall. The collection suits both commercial and residential use. The lamp is available in three variations, and a splitter allows for variety of configurations.
 
-Designed with Jordan Murphy.
+Designed with Jordan Murphy
+
+Photography by Menu

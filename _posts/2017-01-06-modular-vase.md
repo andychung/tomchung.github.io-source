@@ -18,3 +18,5 @@ images:
 ---
 
 Modular and flat pack vase designed to display individual flowers in groupings. Loosely inspired by molecular structures, the vase has infinite configurations.
+
+Photography by Tom Chung

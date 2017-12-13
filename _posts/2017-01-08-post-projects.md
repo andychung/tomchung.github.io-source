@@ -20,3 +20,5 @@ images:
 ---
 
 Office design for graphic design studio <a href="http://postprojects.com">Post Projects</a>. Combining graphic furniture mixed with custom oak fixtures and chrome lighting to create a unique and efficient workspace that reflects the personality of the studio.
+
+Photography by Post Projects

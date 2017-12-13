@@ -29,3 +29,5 @@ Sitting Room was an interdisciplinary exhibition of emerging Canadian Designers 
 The exhibition investigated living spaces as an intersection of artistic discipline. The space featured a temporary built environment that pulled together work from different mediums presented within a simulated domestic context.
 
 Works by Knauf and Brown, Mercury Bureau, Rodrigo Caula, Andy Chung, Anh Dao, Jordan Murphy, and Lambert Rainville.
+
+Photography by Working Title

@@ -23,3 +23,5 @@ images:
 Fromme is a versatile cafe chair which borrows from the materials and principals of early 90's mountain biking with a slight tilt towards mid century modern. The aluminum chair is designed as a light weight and tilt responsive seat, contrasted with an entirely rigid material construction. 4 points of even compression allow the sitter to gently tilt back and forth in order to re-adjust pressure points.
 
 With a fully knockdown construction, easy to clean anodized finish and stacking clearance; Fromme has been designed for high performance in indoor and outdoor contract environments.
+
+Photography by Tom Chung
