@@ -20,7 +20,8 @@ images:
   - image: cast-pendants/tom-chung-cast-pendants-06.jpg
     size: full
   - image: cast-pendants/tom-chung-cast-pendants-07.jpg
-    size: full
+    size: full  
+
 ---
 
 Cast Pendants take inspiration from the traditional plumb weight &#8212; a weight hanging from a line used by masons and carpenters since Ancient Egypt to establish a true vertical. An honest light, the cast aluminum bodies are designed to be used as single pendants or in cluster configurations.
