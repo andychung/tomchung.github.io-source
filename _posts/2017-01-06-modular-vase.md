@@ -4,8 +4,8 @@ client: Free to Edition
 clientURL: https://www.dropbox.com/sh/v1mklxxffn0nm7m/AACBE1N8qoyzjUpYYjotxQ3Za?dl=0
 year: 2017
 layout: post
-tags:
-  - Product design
+typology: Product
+status: Prototype
 images:
   - image: vase/tom-chung-vase-01.jpg
     size: full

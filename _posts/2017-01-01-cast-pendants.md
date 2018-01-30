@@ -4,8 +4,8 @@ client: Menu
 clientURL: https://menu.as/en/lightning/cast-pendant/
 year: 2017
 layout: post
-tags:
-  - Product design
+typology: Product
+status: Menu
 images:
   - image: cast-pendants/tom-chung-cast-pendants-01.jpg
     size: full

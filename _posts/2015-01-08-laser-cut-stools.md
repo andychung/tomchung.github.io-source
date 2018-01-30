@@ -3,8 +3,8 @@ title: Laser Cut Stools
 client: Limited Edition
 year: 2015
 layout: post
-tags:
-  - Product design
+typology: Product
+status: Prototype
 images:
   - image: laser-cut-stools/tom-chung-laser-cut-stools-01.jpg
     size: full

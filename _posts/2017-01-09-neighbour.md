@@ -2,8 +2,8 @@
 title: Neighbour
 year: 2017
 layout: post
-tags:
-  - Product design
+typology: Interior
+status: Retail
 images:
   - image: neighbour/tom-chung-neighbour-01.jpg
     size: full

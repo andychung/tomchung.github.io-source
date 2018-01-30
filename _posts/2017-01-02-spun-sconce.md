@@ -3,8 +3,8 @@ title: Spun Light
 client: Free to Edition
 year: 2017
 layout: post
-tags:
-  - Product design
+typology: Product
+status: Prototype
 images:
 
   - video: spun-sconce/tom-chung-sc-video-01.mp4

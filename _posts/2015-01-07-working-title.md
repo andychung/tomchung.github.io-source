@@ -2,8 +2,8 @@
 title: Working Title
 year: 2015
 layout: post
-tags:
-  - Interior design
+typology: Interior
+status: Retail
 images:
   - image: working-title/tom-chung-working-title-03.jpg
     size: full

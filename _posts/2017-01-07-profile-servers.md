@@ -4,8 +4,8 @@ client: Umbra Shift
 clientURL: http://www.umbrashift.com/usd/profile-servers-silver
 year: 2017
 layout: post
-tags:
-  - Product design
+typology: Product
+status: Umbra Shift
 images:
   - image: profile-servers/tom-chung-servers-01.jpg
     size: full

@@ -1,0 +1,23 @@
+<ul class="list">
+	{% for node in site.posts %}
+	{% if page.url == node.url %}
+	<li class="list-item">
+		<a href="{{ node.url }}">
+			<div class="list-project-title"><span>{{ node.title }}</span></div>
+			<div class="list-project-typology"><span>{{ node.typology }}</span></div>
+			<div class="list-project-status"><span>{{ node.status }}</span></div>
+			<div class="list-project-date"><span>{{ node.year }}</span></div>
+		</a>
+	</li>
+	{% else %}
+	<li class="list-item">
+		<a href="{{ node.url }}">
+			<div class="list-project-title"><span>{{ node.title }}</span></div>
+			<div class="list-project-typology"><span>{{ node.typology }}</span></div>
+			<div class="list-project-status"><span>{{ node.status }}</span></div>
+			<div class="list-project-date"><span>{{ node.year }}</span></div>
+		</a>
+	</li>
+	{% endif %}
+	{% endfor %}
+</ul>
