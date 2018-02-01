@@ -23,17 +23,17 @@
 				</ul>
 			</div>
 			<div class="left-column">
-				<div class="sticky-column centered">
-					<div class="content-wrap">
-						<div id="core">
-							<div><a href="/">Index</a> / {{ page.title }}</div>
-						</div>
+				<div class="sticky-column">
+					<div id="core">
+						<div><a href="/">Index</a> / {{ page.title }}</div>
+					</div>
+					<div>
 						{{ content }}
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="home">
+		<div id="index">
 			{% include core.html %}
 			{% include list.html %}
 		</div>
