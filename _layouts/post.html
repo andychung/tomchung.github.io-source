@@ -24,9 +24,9 @@
 			</div>
 			<div class="left-column">
 				<div class="sticky-column">
-					<div id="core">
+					<nav>
 						<div><a href="/">Index</a> / {{ page.title }}</div>
-					</div>
+					</nav>
 					<div>
 						{{ content }}
 					</div>
@@ -34,7 +34,7 @@
 			</div>
 		</div>
 		<div id="index">
-			{% include core.html %}
+			{% include nav.html %}
 			{% include list.html %}
 		</div>
 	</div>
