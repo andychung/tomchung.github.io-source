@@ -3,7 +3,7 @@ title: Spun Light
 client: Free to Edition
 year: 2017
 layout: post
-typology: Product
+typology: Lighting
 status: Prototype
 images:
 

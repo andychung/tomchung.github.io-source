@@ -3,7 +3,7 @@ title: Sitting Room
 year: 2015
 layout: post
 typology: Exhibition
-status: Curation
+status: Curator
 tags:
   - Exhibition
 images:

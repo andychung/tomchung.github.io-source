@@ -1,11 +1,13 @@
 {% include header.html %}
 <div id="container">
 	<div id="content">
-		<div id="index" class="home">
-			{% include nav.html %}
-			{% include list.html %}
+		<div class="home">
+			<div id="index">
+				{% include nav.html %}
+				{% include about.html %}
+				{% include list.html %}
+			</div>
 		</div>
-		{% include about.html %}
 	</div>
 </div>
 {% include footer.html %}
