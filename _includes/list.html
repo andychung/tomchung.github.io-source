@@ -1,13 +1,5 @@
 <ul class="list">
 	{% for node in site.posts %}
-	{% if page.url == node.url %}
-	<li class="list-item flex">
-		<div class="list-project"><strike>{{ node.title }}</strike></div>
-		<div class="list-project"><strike>{{ node.status }}</strike></div>
-		<div class="list-project"><strike>{{ node.typology }}</strike></div>
-		<div class="list-project date"><strike>{{ node.year }}</strike></div>
-	</li>
-	{% else %}
 	<li class="list-item">
 		<a href="{{ node.url }}" class="flex">
 			<div class="list-project"><span>{{ node.title }}</span></div>
@@ -16,6 +8,5 @@
 			<div class="list-project date"><span>{{ node.year }}</span></div>
 		</a>
 	</li>
-	{% endif %}
 	{% endfor %}
 </ul>

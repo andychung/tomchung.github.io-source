@@ -1,4 +1,7 @@
 <nav>
+	{% if page.url == "/index.html" %}
+	<div><strike>Index</strike></div>
+	{% else %}
 	<div><a href="/">Index</a></div>
-	<div><a href="#">About</a></div>
+	{% endif %}
 </nav>
