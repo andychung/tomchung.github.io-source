@@ -9,9 +9,7 @@ images:
   - image: fromme/tom-chung-fromme-01.jpg
     size: full
   - image: fromme/tom-chung-fromme-02.jpg
-    size: half
-  - image: fromme/tom-chung-fromme-03.jpg
-    size: half
+    size: full
   - video: fromme/tom-chung-fromme-video-01.mp4
     size: full
   - image: fromme/tom-chung-fromme-04.jpg
