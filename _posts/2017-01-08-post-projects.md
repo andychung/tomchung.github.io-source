@@ -5,6 +5,8 @@ layout: post
 typology: Interior
 status: Office
 images:
+  - image: post-projects/tom-chung-post-07.jpg
+    size: full
   - image: post-projects/tom-chung-post-01.jpg
     size: full
   - image: post-projects/tom-chung-post-02.jpg
