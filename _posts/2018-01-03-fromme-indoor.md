@@ -17,8 +17,6 @@ images:
   - image: fromme-indoor/tom-chung-fromme-indoor-05.jpg
     size: full
   - image: fromme-indoor/tom-chung-fromme-indoor-06.jpg
-    size: full 
-  - image: fromme-indoor/tom-chung-fromme-indoor-07.jpg
     size: full   
 ---
 
