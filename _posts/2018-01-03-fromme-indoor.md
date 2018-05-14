@@ -1,9 +1,8 @@
 ---
 title: Fromme Indoor
-client: Prototype
 year: 2018
 layout: post
-typology: Furniture 
+typology: Furniture
 status: Prototype
 images:
   - image: fromme-indoor/tom-chung-fromme-indoor-03.jpg
