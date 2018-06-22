@@ -4,7 +4,7 @@ client: Prototype
 year: 2018
 layout: post
 typology: Lighting
-status: In Progress
+status: Prototype
 images:
   - image: piton-lamp/tom-chung-piton-lamp-01.jpg
     size: full
