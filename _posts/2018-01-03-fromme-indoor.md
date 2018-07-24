@@ -1,5 +1,5 @@
 ---
-title: Fromme Indoor
+title: Fromme Soft
 year: 2018
 layout: post
 typology: Furniture

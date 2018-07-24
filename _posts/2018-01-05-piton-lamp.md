@@ -1,5 +1,5 @@
 ---
-title: Piton Lamp
+title: Piton
 client: Prototype
 year: 2018
 layout: post
