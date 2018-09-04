@@ -1,10 +1,10 @@
 ---
 title: Piton
-client: Prototype
+client: In Progress
 year: 2018
 layout: post
 typology: Lighting
-status: Prototype
+status: In Progress
 images:
   - image: piton-lamp/tom-chung-piton-lamp-01.jpg
     size: full
