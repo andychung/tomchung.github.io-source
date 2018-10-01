@@ -8,7 +8,7 @@ status: Studio
 images:
   - image: local-source/tom-chung-local-source-01.jpg
     size: full
-  - video: local-source/tom-chung-local-source-01.mp4
+  - video: local-source/tom-chung-local-source-02.mp4
     size: full
   - image: local-source/tom-chung-local-source-03.jpg
     size: full
