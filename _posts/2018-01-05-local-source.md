@@ -30,7 +30,7 @@ images:
     size: full                                                                    
 ---
 
-Local Source is a studio publication documenting the economic realities and practical constraints in establishing an independent industrial design practice with little resources or proximity to industry. The journal catalogs the infrastructure, architecture and fabric of the city of Toronto, and its surrounding boroughs, which have shaped the design principles of the studio. 
+Local Source is a studio publication documenting the economic and practical constraints in establishing an independent industrial design practice with limited resources or proximity to industry. The journal catalogs the infrastructure, architecture and fabric of the city of Toronto, and its surrounding boroughs, which have shaped the design principles of the studio. 
 
 Containing photographs, work and artifacts from the first two years, accompanied by an interview with Lia Forslund.
 
