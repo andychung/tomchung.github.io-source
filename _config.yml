@@ -7,3 +7,5 @@ permalink: /projects/:title/
 image_url: /public/images
 exclude: [.git]
 destination: ../tomchung.github.io/
+collections:
+  - news

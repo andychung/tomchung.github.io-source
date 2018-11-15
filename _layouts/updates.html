@@ -1,0 +1,23 @@
+{% include header.html %}
+<div id="container">
+	<div id="content">
+		<div class="home">
+			<div id="updates">
+				<div class="about-section">
+					<div class="label"><a href="/">Studio</a> / {{ page.title }}</div>
+					<div class="field">
+					{% assign sorted = site.news | reverse %}
+					{% for node in sorted %}
+						<div class="post">
+							<div class="post-date">{{ node.date | date: "%b %-d %Y" }}</div>
+							<div class="post-content">{{ node.content }}</div>
+						</div>
+					{% endfor %}
+					</div>
+					<div class="spacer"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{% include footer.html %}

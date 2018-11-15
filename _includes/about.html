@@ -1,18 +1,24 @@
-<div id="about">
-	<div id="image-rotation" class="about-image">
-		<img src="../public/images/about/blank.png">
-		<div class="slide" style="background-image: url('../public/images/about/about-1.jpg'); opacity: 1;"></div>
-		<div class="slide" style="background-image: url('../public/images/about/about-2.jpg');"></div>
-		<div class="slide" style="background-image: url('../public/images/about/about-3.jpg');"></div>
-		<div class="slide" style="background-image: url('../public/images/about/about-4.jpg');"></div>
-		<div class="slide" style="background-image: url('../public/images/about/about-5.jpg');"></div>
-		<div class="slide" style="background-image: url('../public/images/about/about-6.jpg');"></div>
-
-	</div>
-	<div class="about-text">
+<div class="about-section">
+	<div class="label"><a href="/">Studio</a></div>
+	<div class="field">
 		<p>B. 1990 in Vancouver BC, Tom Chung is an independent industrial designer who established his eponymous studio in 2016. Based in Toronto the studio maintains a focus on material objects and interior space with an emphasis on experience. Forming a unique design process which combines contemporary culture and local industry, the studio creates context driven industrial design pieces for domestic, institutional and public environments.</p>
 		<p>2573 Dundas St. West<br>
 		Toronto, Canada, M6P 1X7<br>
 		info@tomchung.net</p>
 	</div>
+	<div class="spacer"></div>
+</div>
+<div class="about-section">
+	<div class="label"><a href="/updates">Updates</a></div>
+	<div class="field">
+	{% assign sorted = site.news | reverse %}
+	{% for node in sorted | limit: 3 %}
+		<div class="post">
+			<div class="post-date">{{ node.date | date: "%b %-d %Y" }}</div>
+			<div class="post-content">{{ node.content }}</div>
+		</div>
+	{% endfor %}
+		<a href="/updates">See Older</a>
+	</div>
+	<div class="spacer"></div>
 </div>
