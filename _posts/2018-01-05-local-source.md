@@ -38,10 +38,10 @@ Digital Print<br>
 100 Colour Copies<br>
 80 pages, 8.5” x 11”<br>
 
-Interview by Lia Forslund<br>
-Photography by Tom Chung<br>
-Studio Photography by Anh Dao, Alex Nelson<br>
-Graphic Design by Andy Chung
+Interview by <a href="https://www.liaforslund.com">Lia Forslund</a>.<br>
+Photography by Tom Chung.<br>
+Studio Photography by Anh Dao, Alex Nelson.<br>
+Graphic Design by <a href="https://www.andychung.me">Andy Chung</a>.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
   <input type="hidden" name="cmd" value="_s-xclick">

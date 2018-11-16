@@ -22,5 +22,5 @@ The tray provides a surface for your bag, without having to place it on the floo
 
 At home, the stool may be used as a side table, extra seat, or storage cart.
 
-Produced by Umbra Shift.<br>
+Produced by <a href="https://www.umbra.com/hover-storage-stool/">Umbra Shift</a>.<br>
 Photography by Tom Chung.

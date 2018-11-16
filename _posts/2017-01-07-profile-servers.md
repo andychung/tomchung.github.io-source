@@ -17,4 +17,4 @@ images:
 
 A tool for salad, and other things. Made from extruded aluminum, the ridged profile nests neatly in a bowl, drawer or hook. Designed with durability and use in mind.
 
-Produced by <a href="http://www.umbrashift.com/usd/profile-servers-alum-mat">Umbra Shift</a>.<br>Photography by Umbra Shift & Tom Chung.
+Produced by <a href="https://www.umbra.com/profile-servers/">Umbra Shift</a>.<br>Photography by Umbra Shift & Tom Chung.
