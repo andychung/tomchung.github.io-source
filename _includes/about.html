@@ -11,10 +11,10 @@
 <div class="about-section">
 	<div class="label"><a href="/updates/">Updates</a></div>
 	<div class="field">
-	{% assign sorted = site.news | reverse %}
+	{% assign sorted = site.updates | reverse %}
 	{% for node in sorted | limit: 3 %}
 		<div class="post">
-			<div class="post-date">{{ node.date | date: "%b %-d %Y" }}</div>
+			<div class="post-date"><a href="{{ node.url }}">{{ node.date | date: "%b %-d %Y" }}</a></div>
 			<div class="post-content">{{ node.content }}</div>
 		</div>
 	{% endfor %}

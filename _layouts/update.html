@@ -1,0 +1,20 @@
+{% include header.html %}
+<div id="container">
+	<div id="content">
+		<div class="home">
+			<div id="updates">
+				<div class="about-section">
+					<div class="label"><a href="/">Studio</a> / {{ page.date | date: "%b %-d %Y" }}</div>
+					<div class="field">
+						<div class="post">
+							<!-- <div class="post-date">{{ page.date | date: "%b %-d %Y" }}</div> -->
+							<div class="post-content">{{ page.content }}</div>
+						</div>
+					</div>
+					<div class="spacer"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{% include footer.html %}

@@ -8,4 +8,11 @@ image_url: /public/images
 exclude: [.git]
 destination: ../tomchung.github.io/
 collections:
-  - news
+  updates:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "updates"
+    values:
+      layout: "update"
