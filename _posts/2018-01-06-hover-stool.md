@@ -7,13 +7,16 @@ typology: Furniture
 status: Umbra Shift
 images:
   - image: hover-stool/tom-chung-hover-01.jpg
-    size: full
+    size: full               
   - image: hover-stool/tom-chung-hover-02.jpg
-    size: half    
+    size: half         
   - image: hover-stool/tom-chung-hover-03.jpg
-    size: half
+    size: half    
   - image: hover-stool/tom-chung-hover-04.jpg
-    size: full                          
+    size: full
+  - video: hover-stool/tom-chung-hover-05.mp4
+    size: full        
+                         
 ---
 
 Hover is a contemporary take on the mechanics stool. Designed for co-working spaces or cafe's where one might need personal short term storage space. 
