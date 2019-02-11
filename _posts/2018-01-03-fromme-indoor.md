@@ -3,7 +3,7 @@ title: Fromme Soft
 year: 2018
 layout: post
 typology: Furniture
-status: Prototype
+status: In Progress
 images:
   - image: fromme-indoor/tom-chung-fromme-indoor-03.jpg
     size: full

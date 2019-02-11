@@ -4,7 +4,7 @@ client: <a href="https://www.dropbox.com/sh/8ematlv1k1mgjod/AABqpAwGF6aNZL9z1ot3
 year: 2017
 layout: post
 typology: Furniture
-status: Prototype
+status: In Progress
 images:
   - image: fromme/tom-chung-fromme-01.jpg
     size: full

@@ -1,7 +1,7 @@
 ---
 title: Piton
 client: In Progress
-year: 2019
+year: 2020
 layout: post
 typology: Lighting
 status: In Progress
