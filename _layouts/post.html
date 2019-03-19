@@ -19,6 +19,11 @@
 							</div>
 						</li>
 						{% endif %}
+						{% if image.ar %}
+						<li class="image {{ image.size }}">
+							{% placeholder_usdz %}
+						</li>
+						{% endif %}
 					{% endfor %}
 				</ul>
 			</div>
